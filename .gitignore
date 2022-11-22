@@ -1,6 +1,9 @@
 # Ignore data file as it is too large for GitHub
 US_youtube_trending_data.csv
 
+# Ignore generated images
+images/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
